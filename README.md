@@ -2,7 +2,7 @@
 Sports 
 
 
-##History
+## History
 The Louisville RiverFrogs were a
 professional ice hockey team competing in
 the East Coast Hockey League (ECHL), which
